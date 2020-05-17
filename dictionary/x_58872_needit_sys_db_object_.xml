@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="sys_db_object " max_length="40" name="x_58872_needit_sys_db_object_" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=access" label="access" max_length="40" name="u_access" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=action" label="action" max_length="40" name="u_action" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=actions_access" label="actions_access" max_length="40" name="u_actions_access" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=alter_access" label="alter_access" max_length="40" name="u_alter_access" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=caller_access" label="caller_access" max_length="40" name="u_caller_access" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=client_scripts_access" label="client_scripts_access" max_length="40" name="u_client_scripts_access" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=configuration_access" label="configuration_access" max_length="40" name="u_configuration_access" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=create_access" label="create_access" max_length="40" name="u_create_access" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=create_access_controls" label="create_access_controls" max_length="40" name="u_create_access_controls" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=delete_access" label="delete_access" max_length="40" name="u_delete_access" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=display_value" label="display_value" max_length="40" name="u_display_value" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=display_value (AI)" label="display_value (AI)" max_length="40" name="u_display_value__ai_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=display_value (AM)" label="display_value (AM)" max_length="40" name="u_display_value__am_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=display_value (AS)" label="display_value (AS)" max_length="40" name="u_display_value__as_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=display_value (X)" label="display_value (X)" max_length="40" name="u_display_value__x_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=extension_model" label="extension_model" max_length="40" name="u_extension_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=is_extendable" label="is_extendable" max_length="40" name="u_is_extendable" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=label" label="label" max_length="40" name="u_label" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=live_feed_enabled" label="live_feed_enabled" max_length="40" name="u_live_feed_enabled" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name (AT)" label="name (AT)" max_length="40" name="u_name__at_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name (Y)" label="name (Y)" max_length="40" name="u_name__y_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=number_ref" label="number_ref" max_length="40" name="u_number_ref" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=read_access" label="read_access" max_length="40" name="u_read_access" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=scriptable_table" label="scriptable_table" max_length="40" name="u_scriptable_table" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=source" label="source" max_length="40" name="u_source" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=super_class" label="super_class" max_length="40" name="u_super_class" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sys_class_code" label="sys_class_code" max_length="40" name="u_sys_class_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sys_class_name" label="sys_class_name" max_length="40" name="u_sys_class_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sys_class_path" label="sys_class_path" max_length="40" name="u_sys_class_path" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sys_created_by" label="sys_created_by" max_length="40" name="u_sys_created_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sys_created_on" label="sys_created_on" max_length="40" name="u_sys_created_on" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sys_db_object" label="sys_db_object" max_length="40" name="u_sys_db_object" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sys_id" label="sys_id" max_length="40" name="u_sys_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sys_mod_count" label="sys_mod_count" max_length="40" name="u_sys_mod_count" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sys_name" label="sys_name" max_length="40" name="u_sys_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sys_package" label="sys_package" max_length="40" name="u_sys_package" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sys_policy" label="sys_policy" max_length="40" name="u_sys_policy" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sys_scope" label="sys_scope" max_length="40" name="u_sys_scope" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sys_updated_by" label="sys_updated_by" max_length="40" name="u_sys_updated_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sys_updated_on" label="sys_updated_on" max_length="40" name="u_sys_updated_on" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sys_update_name" label="sys_update_name" max_length="46" name="u_sys_update_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=unload" label="unload" max_length="40" name="u_unload" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=unload_date" label="unload_date" max_length="40" name="u_unload_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=update_access" label="update_access" max_length="40" name="u_update_access" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=user_role" label="user_role" max_length="40" name="u_user_role" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ws_access" label="ws_access" max_length="40" name="u_ws_access" type="string"/>
+    </element>
+</database>
